@@ -72,18 +72,18 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{ReehAzevedo18}}/alura-books-server
+$ git clone https://github.com/ReehAzevedo18/alura-book-server.git
 
 # Access
 $ cd alura-books-server
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ node app.js
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:8000>
 ```
 
 ## :memo: License ##
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{ReehAzevedo18}}" target="_blank">{{Remata Azevedo}}</a>
+Made with :heart: by <a href="https://github.com/ReehAzevedo18" target="_blank">Renata Azevedo</a>
 
 &#xa0;
 
